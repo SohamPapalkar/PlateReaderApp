@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlateReaderApp", "PlateReaderApp.csproj", "{1C53C5FD-6BD9-3093-58DA-FEB094898415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C53C5FD-6BD9-3093-58DA-FEB094898415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C53C5FD-6BD9-3093-58DA-FEB094898415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C53C5FD-6BD9-3093-58DA-FEB094898415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C53C5FD-6BD9-3093-58DA-FEB094898415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACA175E5-867C-47AB-9D54-FA9A0011CA0A}
+	EndGlobalSection
+EndGlobal
